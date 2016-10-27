@@ -1,0 +1,25 @@
+{
+    "name": "vue2-html-loader",
+    "version": "0.0.0",
+    "description": "vue html loader for webpack",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alekzonder/vue2-html-loader.git"
+    },
+    "keywords": [
+        "vue", "webpack", "loader"
+    ],
+    "author": "alekzonder <alekzonder@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "vue-template-compiler": "^2.0.3"
+    },
+    "bugs": {
+        "url": "https://github.com/alekzonder/vue2-html-loader/issues"
+    },
+    "homepage": "https://github.com/alekzonder/vue2-html-loader#readme"
+}
